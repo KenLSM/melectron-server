@@ -1,0 +1,14 @@
+{
+  "name": "melectron-server",
+  "version": "0.0.1",
+  "description": "Server for melectron",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kenlsm",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "private": true
+}
